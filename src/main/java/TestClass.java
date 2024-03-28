@@ -6,6 +6,26 @@ public class TestClass {
 		/* Test sul primo branch */
 		System.out.println("This is a mesassage on the console");
 
+	
+
+	
+
+		
+		System.out.println("something");
+
+		
+		System.out.println("something");
+
+		
+		System.out.println("something");
+
+		
+		System.out.println("something");
+
+		
+		System.out.println("something");
+
+		
 	}
 
 }
